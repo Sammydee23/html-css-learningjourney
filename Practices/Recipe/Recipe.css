@@ -1,0 +1,7 @@
+body {background-color: #dbd4cc;}
+h1 { color:darkgreen; font-style: inherit; text-align: left;} 
+p { color:forestgreen; font-size: large; font-style: inherit; text-align: left;}
+h3 { color:green; font-size: large; font-style: inherit; text-align: left; margin: 0;}
+ul { color:forestgreen; font-size: large; font-style: inherit; margin: 0;}
+li { color:forestgreen; font-size: large; font-style: inherit; margin: 0;}
+ol { color:forestgreen; font-size: large; font-style: inherit; margin: 0; type="1"}

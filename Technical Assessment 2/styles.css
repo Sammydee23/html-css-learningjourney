@@ -1,0 +1,30 @@
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+    background-color: #d8cbcbb6; 
+}
+
+.logo {
+    font-size: 24px; 
+    font-weight: bold;
+}
+Body {background-image:url(https://www.wicksandpages.com/cdn/shop/files/IMG_5966_360x.jpg?v=1633444937);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+}
+ul {font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align:left;
+    color:rgb(8, 8, 8);
+}
+
+h1 {font-size: x-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h2 {font-size: medium; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h3 {font-size: medium; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+p  {font-size: medium; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}

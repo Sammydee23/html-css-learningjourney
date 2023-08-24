@@ -1,0 +1,21 @@
+.table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.row {
+    display: table-row;
+}
+
+.header {
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.cell {
+    display: table-cell;
+    border: 1px solid black;
+    padding: 5px;
+}
